@@ -13,7 +13,7 @@ const GlobalStyle = createGlobalStyle`
   }
 
   html {
-    font-size: 62.5%;
+    font-size: 55.5%;
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
     box-sizing: border-box;
@@ -22,8 +22,8 @@ const GlobalStyle = createGlobalStyle`
   body {
     background: #f9fafc;
     font-family: 'Open Sans', sans-serif; 
-    line-height: 1.5;
-    padding: 50px 0;
+    line-height: 1.15;
+    padding: 25px 0;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
   }
@@ -35,12 +35,12 @@ const GlobalStyle = createGlobalStyle`
   .gatsby-highlight {
     border-bottom: 1px solid #e0e6ed;
     border-top: 1px solid #e0e6ed;
-    margin: 15px -100px;
+    margin: 5px -100px;
     padding: 0;
 
     pre[class*="language-"] {
       margin: 0;
-      padding: 25px 100px;
+      padding: 5px 100px;
     }
   }
 

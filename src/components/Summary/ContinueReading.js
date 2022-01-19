@@ -5,8 +5,8 @@ import userConfig from '../../../config';
 const ContinueReading = styled(GatsbyLink)`
   color: #666d71;
   display: inline-block;
-  font-size: 14px;
-  margin-top: 50px;
+  font-size: 16px;
+  margin-top: 25px;
   text-decoration: none;
 
   &:hover {

@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Dev Blog', // Required
-  author: 'Ryan Fitzgerald', // Required
-  description: 'Full-stack Web Developer',
-  primaryColor: '#3498db', // Required
-  showHeaderImage: true,
+  title: 'Fiddleheads', // Required
+  author: 'Between Two Fiddleheads', // Required
+  description: 'Seminar Series for Applied Machine Learning: led by John Santerre, PhD',
+  primaryColor: '#28803f', // Required
+  showHeaderImage: false,
   showShareButtons: true,
-  postsPerPage: 5, // Required
+  postsPerPage: 10, // Required
   social: {
     website: 'https://ryanfitzgerald.ca',
     github: 'https://github.com/ryanfitzgerald',
